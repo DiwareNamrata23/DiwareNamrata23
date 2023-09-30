@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DiwareNamrata23
 - 👀 I’m interested in Web Development 
-- 🌱 I’m currently learning dsa
+- 🌱 I’m currently learning dsa and python
   
 
 <!---
