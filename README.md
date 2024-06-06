@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Namrata and I'm a 2nd year student pursuing Btech from Shri Ramdeobaba College of Engineering and Management in CSE with specialization in (AIML)</h2>
+<h2 align="left">Hi 👋! My name is Namrata and I'm a 3rd year student pursuing Btech from Shri Ramdeobaba College of Engineering and Management in CSE with specialization in (AIML)</h2>
 
 ###
 
