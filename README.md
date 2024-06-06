@@ -1,5 +1,7 @@
 <h2 align="left">Hi 👋! My name is Namrata and I'm a 3rd year student pursuing Btech from Shri Ramdeobaba College of Engineering and Management in CSE with specialization in (AIML)</h2>
-
+<h1 align="center">
+<img align="center" alt="GIF" src="https://github.com/DiwareNamrata23/DiwareNamrata23/blob/main/dev-working_rounded.gif?raw=true" width="650" height="550" />
+</h1>
 ###
 
 <div align="center">
