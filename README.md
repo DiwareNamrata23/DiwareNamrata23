@@ -12,10 +12,6 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=DiwareNamrata23&theme=dark&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
-
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
 ## Skills
 
 <div align="left">
@@ -32,7 +28,7 @@
   <img width="12" />
 
 
-###
+## Socials
 
 <div align="left">
  <a href ="https://www.instagram.com/namrata_diwre?igsh=Ymp1OTJncWoxMXg1">
@@ -49,13 +45,12 @@
   </a>
 </div>
 
-###
-
-<br clear="both">
 
 
 
-###
+
+
+
   
 
 
